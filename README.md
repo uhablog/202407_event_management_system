@@ -36,3 +36,14 @@ ChagGPTに聞いてみた
 6. **CI/CD** - GitHub Actionsを活用して、コードの変更があるたびに自動的にテストとデプロイが行われるようにします。
 
 このプロジェクトを通じて、各テクノロジーの深い知識と実践的なスキルが身に付くでしょう。さらに、イベント管理システムは多くの業界で役立つため、ポートフォリオとしても非常に魅力的なものになるはずです。
+
+## イベント管理システム
+
+リポジトリは[こちら](https://github.com/uhablog/event_management_system)
+
+Pythonを使ってGraphQLサーバーとしてAPIを構築する。以下の技術スタックを使用
+
+- FastAPI
+- Strawberry
+- MongoDB
+- Docker
